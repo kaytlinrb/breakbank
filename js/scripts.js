@@ -38,6 +38,7 @@ $(function() {
       console.log(myAccount);
       var accountTotal = myAccount.operations();
       $("h2").text("$" + accountTotal);
+      myAccount.initDeposit = accountTotal;
     });
 
 
