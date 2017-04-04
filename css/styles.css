@@ -1,0 +1,13 @@
+.your-account {
+  display: none;
+}
+body {
+  background-image: url(../img/money.jpg);
+  background-size: cover;
+}
+.well {
+  background-color: #d0d6cd;
+}
+.jumbotron {
+  background-color: #d0d6cd;
+}
